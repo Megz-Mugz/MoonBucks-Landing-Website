@@ -1,0 +1,110 @@
+.logo {
+  width: 50px;
+}
+
+.nav-item {
+  margin-left: 30px;
+  font-family: "Bitter";
+  font-weight: 100;
+  font-size: 1.2rem;
+}
+
+/* Display Section & Carousel */
+
+#display {
+  background-color: #171616;
+  /* margin-bottom: 80px; */
+}
+
+#display-carousel {
+  text-align: left;
+  padding: 0px 30px 0px;
+}
+
+.carousel-item {
+  padding: 7% 10%;
+  color: white;
+}
+
+.food-pic {
+  float: left;
+  margin: 60px 150px 50px;
+  padding-bottom: 30px;
+}
+
+.description {
+  display: flex;
+  float: right;
+  margin: 10px 100px 20px 0;
+  font-size: 3rem;
+  text-align: center;
+  line-height: 1.5;
+  font-family: "Bitter";
+  font-weight: 700;
+}
+
+.descrption-btn {
+  text-align: center;
+  position: relative;
+  margin: auto;
+}
+
+/* @media (max-width: ) {
+
+} */
+
+/* Locations Section */
+
+#locations {
+  background-color: #292b2c;
+  padding-top: 5%;
+}
+
+.place {
+  margin-bottom: 50px;
+}
+
+.card {
+  background-color: black;
+  margin: 0 auto;
+  margin-bottom: 10px;
+  text-align: center;
+  color: white;
+  margin-top: 30px;
+}
+
+.card-body {
+  background-color: black;
+}
+
+.card-title {
+  font-family: "Bitter";
+  font-weight: 700;
+}
+
+.card-images {
+  padding: 3%;
+  background-color: black;
+}
+
+.card-descrption {
+  font-family: "Bitter";
+  font-weight: 100;
+}
+
+/* Footer Section */
+#footer {
+  background-color: #171616;
+  color: white;
+  font-family: "Raleway";
+  text-align: center;
+  padding: 30px;
+}
+
+.footer-icons {
+  margin: 20px;
+}
+
+.footer-icons:hover {
+  color: grey;
+}
